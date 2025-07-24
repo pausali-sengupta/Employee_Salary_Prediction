@@ -1,4 +1,4 @@
-Employee Salary Prediction
+## Employee Salary Prediction
 
 This project aims to predict whether an individual's salary is above or below $50K based on census data. The analysis is performed using a variety of machine learning models implemented in Python through a Jupyter Notebook.
 
